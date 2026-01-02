@@ -1,0 +1,16 @@
+order_id,customer_id,city,order_date,order_value,delivery_time,delivery_fee,is_returning,payment_method,order_status
+1001,C001,Lagos,1/2/2025,8500,32,1200,0,Card,Delivered
+1002,C002,Abuja,1/3/2025,6200,55,1500,0,Transfer,Delivered
+1003,C003,PH,1/5/2025,12000,40,1300,0,Cash,Delivered
+1004,C001,Lagos,1/5/2025,4300,28,1000,1,Card,Delivered
+1005,C004,Abuja,1/6/2025,7800,70,1800,0,Card,Cancelled
+1006,C005,Lagos,1/7/2025,9100,35,1200,0,Transfer,Delivered
+1007,C002,Abuja,1/7/2025,6400,60,1500,1,Transfer,Delivered
+1008,C006,PH,1/8/2025,5200,45,1300,0,Cash,Delivered
+1009,C007,Lagos,1/9/2025,15000,30,1200,0,Card,Delivered
+1010,C003,PH,1/10/2025,11800,38,1300,1,Card,Delivered
+1011,C008,Abuja,1/10/2025,4900,75,1800,0,Cash,Delivered
+1012,C009,Lagos,1/11/2025,6700,33,1200,0,Transfer,Delivered
+1013,C010,PH,1/12/2025,8300,42,1300,0,Card,Delivered
+1014,C006,PH,1/13/2025,5600,47,1300,1,Cash,Delivered
+1015,C001,Lagos,1/15/2025,9900,29,1000,1,Card,Delivered
