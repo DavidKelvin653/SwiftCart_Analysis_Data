@@ -1,2 +1,3 @@
 # SwiftCart_Analysis_Data
-My First streamlit shopping cart data analysis
+Data Analysis project exploring customer retention rate,delivery time,and revenue by city.Thereby solving a real company issue
+of lack of retention rate and profit.
